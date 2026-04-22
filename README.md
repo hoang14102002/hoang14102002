@@ -15,8 +15,8 @@ My repositories showcase the projects I have worked on in real-world professiona
 
 ## 🛠️ Skills & Interests
 - 💻 **Programming & Data Transformation:** SQL (Advanced), Python (Pandas, NumPy, Seaborn, Matplotlib), dbt  
-- 🗄️ **Databases:** SQL Server, MySQL  
-- 📊 **BI & Visualization:** Power BI  
+- 🗄️ **Databases:** SQL Server, MySQL, Google Big Query
+- 📊 **BI & Visualization:** Power BI, Looker Studio
 - 🧠 **Continuous Learning:** always improving analytical and technical skills  
 - 🤝 **Collaboration & Networking:** open to connect and share knowledge
 
